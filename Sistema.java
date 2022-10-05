@@ -1,3 +1,6 @@
+import Entities.Lote;
+import Entities.Produto;
+
 import java.util.Scanner;
 
 public class Sistema {
